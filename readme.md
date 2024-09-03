@@ -65,7 +65,7 @@ The application uses a MySQL database named `SupplyChainDB` with the following t
 - **View Order by ID**: View the details of a specific order by entering its order ID.
 - **View All Orders**: Display all orders in the system.
 - **Update Order**: Update the product ID, supplier ID, and status of an existing order.
-- **Cancel Order**: Cancel an existing order by setting its status to 'cancelled'.
+- **Cancel Order**: Cancel an existing order by setting its status to 'canceled'.
 
 ## How to Run
 
@@ -80,8 +80,7 @@ The application uses a MySQL database named `SupplyChainDB` with the following t
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/supply-chain-management.git
-    cd supply-chain-management
+    [cd supply-chain-management](https://github.com/Lootera69/Group-4-CaseStudy-30743779.git)
     ```
 
 2. **Set Up the Database:**
@@ -108,9 +107,9 @@ The application uses a MySQL database named `SupplyChainDB` with the following t
 
 After running the `MainMenu` class, follow the console prompts to interact with the system:
 
-- **Manage Products**: Choose options 1-4 in the product menu.
-- **Manage Suppliers**: Choose options 1-4 in the supplier menu.
-- **Manage Orders**: Choose options 1-6 in the order menu.
+- **Manage Products**: Choose Options 1-4 in the product menu.
+- **Manage Suppliers**: Choose Options 1-4 in the supplier menu.
+- **Manage Orders**: Choose Options 1-6 in the order menu.
 
 ## Error Handling
 
