@@ -30,8 +30,7 @@ This project is a simple Java-based Supply Chain Management System designed to m
 The project consists of the following Java classes:
 
 - `DatabaseConnection.java`: Handles the connection to the MySQL database.
-- `DatabaseOperations.java`: Contains methods for performing CRUD operations on products, suppliers, and orders.
-- `MainMenu.java`: Contains the main menu interface for interacting with the user.
+- `MainMenu.java`: Contains the main menu interface for interacting with the user and also for performing CRUD operations on products, suppliers, and orders.
 - `InvalidOptionException.java`: Custom exception for handling invalid menu options.
 - `DatabaseException.java`: Custom exception for handling database-related errors.
 
