@@ -114,3 +114,5 @@ After running the `MainMenu` class, follow the console prompts to interact with 
 
 - **InvalidOptionException**: Thrown when the user selects an invalid option from the menu.
 - **DatabaseException**: Thrown when there is an issue connecting to or interacting with the database.
+
+test text
